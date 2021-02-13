@@ -1,4 +1,6 @@
 # GAM-SSD
+GAM-SSD is built based on PaddleDetection suite
+
 #### 1.we suggest you use paddle aistudio online directly without install any packets.
 #### 2.you need to download open dataset pascalvoc.zip yourself. Then run the command lines to build dataset.
 
