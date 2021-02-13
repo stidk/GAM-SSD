@@ -16,3 +16,5 @@ note data4379 is self-defined.
 !python tools/train.py -c ssd_r101_300_voc.yml --eval 
 (!python tools/train.py -c ssd_r50_300_voc.yml --eval )
 ```
+
+#### 4.opendataset NWPUVHR-10.zip is provided in "dataset" folder
