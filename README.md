@@ -1,9 +1,9 @@
 # GAM-SSD
 # you need to download open dataset pascalvoc.zip yourself. Then run the command lines to build dataset：
 
-!unzip -q /home/aistudio/data/data4379/pascalvoc.zip -d /home/aistudio/PaddleDetection-release-0.4/dataset/voc
+  `!unzip -q /home/aistudio/data/data4379/pascalvoc.zip -d /home/aistudio/PaddleDetection-release-0.4/dataset/voc'  `
 
-!python /home/aistudio/PaddleDetection-release-0.4/dataset/voc/create_list.py -d '/home/aistudio/PaddleDetection-release-0.4/dataset/voc/pascalvoc'
+  `!python /home/aistudio/PaddleDetection-release-0.4/dataset/voc/create_list.py -d '/home/aistudio/PaddleDetection-release-0.4/dataset/voc/pascalvoc'  `
 
 （note data4379 is self-defined。）
 
